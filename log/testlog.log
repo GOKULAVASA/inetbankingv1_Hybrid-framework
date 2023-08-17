@@ -1,0 +1,359 @@
+2023-08-16 19:24:38,611 - ebanking -INFO - url launched
+2023-08-16 19:24:38,749 - ebanking -INFO - username  entered
+2023-08-16 19:24:38,832 - ebanking -INFO - password entered
+2023-08-16 19:25:56,036 - ebanking -INFO - url launched
+2023-08-16 19:25:56,175 - ebanking -INFO - username  entered
+2023-08-16 19:25:56,260 - ebanking -INFO - password entered
+2023-08-16 19:31:05,930 - ebanking -INFO - username provided
+2023-08-16 19:31:06,045 - ebanking -INFO - passwored provided
+2023-08-16 19:31:06,554 - ebanking -INFO - submit provided
+2023-08-16 19:31:09,573 - ebanking -WARN - yes alret is there 
+2023-08-16 19:31:10,525 - ebanking -INFO - username provided
+2023-08-16 19:31:10,783 - ebanking -INFO - passwored provided
+2023-08-16 19:31:11,770 - ebanking -INFO - submit provided
+2023-08-16 19:31:14,781 - ebanking -INFO - exception handled 
+2023-08-16 19:31:20,378 - ebanking -INFO - valid credititals logged out to next futher data driven test 
+2023-08-16 19:31:20,458 - ebanking -INFO - username provided
+2023-08-16 19:31:20,696 - ebanking -INFO - passwored provided
+2023-08-16 19:31:21,084 - ebanking -INFO - submit provided
+2023-08-16 19:31:24,090 - ebanking -WARN - yes alret is there 
+2023-08-16 19:31:25,864 - ebanking -INFO - username provided
+2023-08-16 19:31:26,025 - ebanking -INFO - passwored provided
+2023-08-16 19:31:26,480 - ebanking -INFO - submit provided
+2023-08-16 19:31:29,494 - ebanking -WARN - yes alret is there 
+2023-08-16 19:31:32,392 - ebanking -INFO - username provided
+2023-08-16 19:31:32,601 - ebanking -INFO - passwored provided
+2023-08-16 19:31:33,391 - ebanking -INFO - submit provided
+2023-08-16 19:31:36,407 - ebanking -INFO - exception handled 
+2023-08-16 19:31:42,163 - ebanking -INFO - valid credititals logged out to next futher data driven test 
+2023-08-16 19:31:45,130 - ebanking -INFO - url launched
+2023-08-16 19:31:45,236 - ebanking -INFO - username  entered
+2023-08-16 19:31:45,321 - ebanking -INFO - password entered
+2023-08-16 19:34:22,481 - ebanking -INFO - username provided
+2023-08-16 19:34:22,695 - ebanking -INFO - passwored provided
+2023-08-16 19:34:23,126 - ebanking -INFO - submit provided
+2023-08-16 19:34:26,145 - ebanking -WARN - yes alret is there 
+2023-08-16 19:34:27,116 - ebanking -INFO - username provided
+2023-08-16 19:34:27,264 - ebanking -INFO - passwored provided
+2023-08-16 19:34:28,248 - ebanking -INFO - submit provided
+2023-08-16 19:34:31,260 - ebanking -INFO - exception handled 
+2023-08-16 19:34:37,170 - ebanking -INFO - valid credititals logged out to next futher data driven test 
+2023-08-16 19:34:37,292 - ebanking -INFO - username provided
+2023-08-16 19:34:37,490 - ebanking -INFO - passwored provided
+2023-08-16 19:34:37,904 - ebanking -INFO - submit provided
+2023-08-16 19:34:40,914 - ebanking -WARN - yes alret is there 
+2023-08-16 19:34:42,486 - ebanking -INFO - username provided
+2023-08-16 19:34:42,801 - ebanking -INFO - passwored provided
+2023-08-16 19:34:43,206 - ebanking -INFO - submit provided
+2023-08-16 19:34:46,216 - ebanking -WARN - yes alret is there 
+2023-08-16 19:34:48,019 - ebanking -INFO - username provided
+2023-08-16 19:34:48,107 - ebanking -INFO - passwored provided
+2023-08-16 19:34:48,943 - ebanking -INFO - submit provided
+2023-08-16 19:34:51,953 - ebanking -INFO - exception handled 
+2023-08-16 19:34:57,768 - ebanking -INFO - valid credititals logged out to next futher data driven test 
+2023-08-16 19:35:00,708 - ebanking -INFO - url launched
+2023-08-16 19:35:00,814 - ebanking -INFO - username  entered
+2023-08-16 19:35:00,893 - ebanking -INFO - password entered
+2023-08-16 19:36:37,019 - ebanking -INFO - username provided
+2023-08-16 19:36:37,123 - ebanking -INFO - passwored provided
+2023-08-16 19:36:37,520 - ebanking -INFO - submit provided
+2023-08-16 19:36:40,539 - ebanking -WARN - yes alret is there 
+2023-08-16 19:36:41,604 - ebanking -INFO - username provided
+2023-08-16 19:36:41,783 - ebanking -INFO - passwored provided
+2023-08-16 19:36:42,872 - ebanking -INFO - submit provided
+2023-08-16 19:36:45,895 - ebanking -INFO - exception handled 
+2023-08-16 19:36:51,691 - ebanking -INFO - valid credititals logged out to next futher data driven test 
+2023-08-16 19:36:51,914 - ebanking -INFO - username provided
+2023-08-16 19:36:52,006 - ebanking -INFO - passwored provided
+2023-08-16 19:36:52,427 - ebanking -INFO - submit provided
+2023-08-16 19:36:55,442 - ebanking -WARN - yes alret is there 
+2023-08-16 19:36:56,948 - ebanking -INFO - username provided
+2023-08-16 19:36:57,117 - ebanking -INFO - passwored provided
+2023-08-16 19:36:57,537 - ebanking -INFO - submit provided
+2023-08-16 19:37:00,557 - ebanking -WARN - yes alret is there 
+2023-08-16 19:37:02,362 - ebanking -INFO - username provided
+2023-08-16 19:37:02,446 - ebanking -INFO - passwored provided
+2023-08-16 19:37:03,299 - ebanking -INFO - submit provided
+2023-08-16 19:37:06,312 - ebanking -INFO - exception handled 
+2023-08-16 19:37:12,144 - ebanking -INFO - valid credititals logged out to next futher data driven test 
+2023-08-16 19:37:15,272 - ebanking -INFO - url launched
+2023-08-16 19:37:15,386 - ebanking -INFO - username  entered
+2023-08-16 19:37:15,468 - ebanking -INFO - password entered
+2023-08-17 07:50:28,705 - ebanking -INFO - username entered
+2023-08-17 07:50:29,025 - ebanking -INFO - password entered
+2023-08-17 07:50:30,264 - ebanking -INFO -  entered submit
+2023-08-17 07:50:36,285 - ebanking -INFO -  dashborad entered
+2023-08-17 07:54:01,866 - ebanking -INFO - username entered
+2023-08-17 07:54:02,195 - ebanking -INFO - password entered
+2023-08-17 07:54:03,772 - ebanking -INFO -  entered submit
+2023-08-17 07:54:09,799 - ebanking -INFO -  dashborad entered
+2023-08-17 07:55:23,668 - ebanking -INFO - username entered
+2023-08-17 07:55:23,811 - ebanking -INFO - password entered
+2023-08-17 07:55:25,002 - ebanking -INFO -  entered submit
+2023-08-17 07:55:31,039 - ebanking -INFO -  dashborad entered
+2023-08-17 07:56:19,934 - ebanking -INFO - username entered
+2023-08-17 07:56:20,085 - ebanking -INFO - password entered
+2023-08-17 07:56:21,562 - ebanking -INFO -  entered submit
+2023-08-17 07:56:27,586 - ebanking -INFO -  dashborad entered
+2023-08-17 07:57:59,514 - ebanking -INFO - username entered
+2023-08-17 07:57:59,640 - ebanking -INFO - password entered
+2023-08-17 07:58:00,863 - ebanking -INFO -  entered submit
+2023-08-17 07:58:06,882 - ebanking -INFO -  dashborad entered
+2023-08-17 07:58:47,189 - ebanking -INFO - username entered
+2023-08-17 07:58:47,465 - ebanking -INFO - password entered
+2023-08-17 07:58:48,766 - ebanking -INFO -  entered submit
+2023-08-17 07:58:54,813 - ebanking -INFO -  dashborad entered
+2023-08-17 07:59:34,825 - ebanking -INFO - username entered
+2023-08-17 07:59:34,952 - ebanking -INFO - password entered
+2023-08-17 07:59:36,105 - ebanking -INFO -  entered submit
+2023-08-17 07:59:42,131 - ebanking -INFO -  dashborad entered
+2023-08-17 08:03:46,980 - ebanking -INFO - username entered
+2023-08-17 08:03:47,299 - ebanking -INFO - password entered
+2023-08-17 08:03:48,583 - ebanking -INFO -  entered submit
+2023-08-17 08:03:54,601 - ebanking -INFO -  dashborad entered
+2023-08-17 08:04:05,133 - ebanking -INFO - form  entered clicked submit
+2023-08-17 08:04:08,184 - ebanking -INFO - test passed
+2023-08-17 09:22:15,727 - ebanking -INFO - username entered
+2023-08-17 09:22:15,887 - ebanking -INFO - password entered
+2023-08-17 09:22:17,070 - ebanking -INFO -  entered submit
+2023-08-17 09:22:20,086 - ebanking -INFO -  dashborad entered
+2023-08-17 09:25:50,484 - ebanking -INFO - username entered
+2023-08-17 09:25:50,674 - ebanking -INFO - password entered
+2023-08-17 09:25:51,960 - ebanking -INFO -  entered submit
+2023-08-17 09:25:54,970 - ebanking -INFO -  dashborad entered
+2023-08-17 09:26:26,229 - ebanking -INFO - username entered
+2023-08-17 09:26:26,466 - ebanking -INFO - password entered
+2023-08-17 09:26:27,881 - ebanking -INFO -  entered submit
+2023-08-17 09:26:30,902 - ebanking -INFO -  dashborad entered
+2023-08-17 09:41:10,787 - ebanking -INFO - username entered
+2023-08-17 09:41:10,936 - ebanking -INFO - password entered
+2023-08-17 09:41:12,119 - ebanking -INFO -  entered submit
+2023-08-17 09:41:15,129 - ebanking -INFO -  dashborad entered
+2023-08-17 09:42:35,445 - ebanking -INFO - username entered
+2023-08-17 09:42:35,771 - ebanking -INFO - password entered
+2023-08-17 09:42:37,355 - ebanking -INFO -  entered submit
+2023-08-17 09:42:44,383 - ebanking -INFO -  dashborad entered
+2023-08-17 09:43:27,204 - ebanking -INFO - username entered
+2023-08-17 09:43:27,475 - ebanking -INFO - password entered
+2023-08-17 09:43:28,689 - ebanking -INFO -  entered submit
+2023-08-17 09:43:35,717 - ebanking -INFO -  dashborad entered
+2023-08-17 09:44:21,775 - ebanking -INFO - username entered
+2023-08-17 09:44:21,923 - ebanking -INFO - password entered
+2023-08-17 09:44:23,127 - ebanking -INFO -  entered submit
+2023-08-17 09:44:30,157 - ebanking -INFO -  dashborad entered
+2023-08-17 09:45:04,239 - ebanking -INFO - username entered
+2023-08-17 09:45:04,521 - ebanking -INFO - password entered
+2023-08-17 09:45:06,046 - ebanking -INFO -  entered submit
+2023-08-17 09:45:13,066 - ebanking -INFO -  dashborad entered
+2023-08-17 09:46:31,188 - ebanking -INFO - username entered
+2023-08-17 09:46:31,462 - ebanking -INFO - password entered
+2023-08-17 09:46:32,747 - ebanking -INFO -  entered submit
+2023-08-17 09:46:39,773 - ebanking -INFO -  dashborad entered
+2023-08-17 09:55:33,155 - ebanking -INFO - username entered
+2023-08-17 09:55:33,397 - ebanking -INFO - password entered
+2023-08-17 09:55:34,624 - ebanking -INFO -  entered submit
+2023-08-17 09:55:41,641 - ebanking -INFO -  dashborad entered
+2023-08-17 09:57:26,057 - ebanking -INFO - username entered
+2023-08-17 09:57:26,232 - ebanking -INFO - password entered
+2023-08-17 09:57:27,555 - ebanking -INFO -  entered submit
+2023-08-17 09:57:34,572 - ebanking -INFO -  dashborad entered
+2023-08-17 09:59:20,617 - ebanking -INFO - username entered
+2023-08-17 09:59:20,940 - ebanking -INFO - password entered
+2023-08-17 09:59:22,184 - ebanking -INFO -  entered submit
+2023-08-17 09:59:29,195 - ebanking -INFO -  dashborad entered
+2023-08-17 10:14:43,127 - ebanking -INFO - username entered
+2023-08-17 10:14:43,587 - ebanking -INFO - password entered
+2023-08-17 10:14:45,296 - ebanking -INFO -  entered submit
+2023-08-17 10:14:52,309 - ebanking -INFO -  dashborad entered
+2023-08-17 10:17:27,481 - ebanking -INFO - username entered
+2023-08-17 10:17:27,701 - ebanking -INFO - password entered
+2023-08-17 10:17:29,202 - ebanking -INFO -  entered submit
+2023-08-17 10:17:36,228 - ebanking -INFO -  dashborad entered
+2023-08-17 10:21:02,990 - ebanking -INFO - username entered
+2023-08-17 10:21:03,189 - ebanking -INFO - password entered
+2023-08-17 10:21:04,481 - ebanking -INFO -  entered submit
+2023-08-17 10:21:11,505 - ebanking -INFO -  dashborad entered
+2023-08-17 10:21:21,110 - ebanking -INFO - form  entered clicked submit
+2023-08-17 10:37:23,702 - ebanking -INFO - username entered
+2023-08-17 10:37:23,814 - ebanking -INFO - password entered
+2023-08-17 10:37:25,019 - ebanking -INFO -  entered submit
+2023-08-17 10:37:32,037 - ebanking -INFO -  dashborad entered
+2023-08-17 10:38:18,907 - ebanking -INFO - username provided
+2023-08-17 10:38:19,025 - ebanking -INFO - passwored provided
+2023-08-17 10:38:20,144 - ebanking -INFO - submit provided
+2023-08-17 10:38:23,153 - ebanking -WARN - yes alret is there 
+2023-08-17 10:38:24,914 - ebanking -INFO - username provided
+2023-08-17 10:38:25,345 - ebanking -INFO - passwored provided
+2023-08-17 10:38:26,533 - ebanking -INFO - submit provided
+2023-08-17 10:38:29,553 - ebanking -INFO - exception handled 
+2023-08-17 10:38:35,665 - ebanking -INFO - valid credititals logged out to next futher data driven test 
+2023-08-17 10:38:36,058 - ebanking -INFO - username provided
+2023-08-17 10:38:36,173 - ebanking -INFO - passwored provided
+2023-08-17 10:38:36,608 - ebanking -INFO - submit provided
+2023-08-17 10:38:39,622 - ebanking -WARN - yes alret is there 
+2023-08-17 10:38:42,074 - ebanking -INFO - username provided
+2023-08-17 10:38:42,270 - ebanking -INFO - passwored provided
+2023-08-17 10:38:42,720 - ebanking -INFO - submit provided
+2023-08-17 10:38:45,752 - ebanking -WARN - yes alret is there 
+2023-08-17 10:38:48,095 - ebanking -INFO - username provided
+2023-08-17 10:38:48,242 - ebanking -INFO - passwored provided
+2023-08-17 10:38:49,925 - ebanking -INFO - submit provided
+2023-08-17 10:38:52,935 - ebanking -INFO - exception handled 
+2023-08-17 10:38:58,969 - ebanking -INFO - valid credititals logged out to next futher data driven test 
+2023-08-17 10:39:06,310 - ebanking -INFO - url launched
+2023-08-17 10:39:06,489 - ebanking -INFO - username  entered
+2023-08-17 10:39:06,603 - ebanking -INFO - password entered
+2023-08-17 10:41:09,867 - ebanking -INFO - username provided
+2023-08-17 10:41:10,017 - ebanking -INFO - passwored provided
+2023-08-17 10:41:11,262 - ebanking -INFO - submit provided
+2023-08-17 10:41:14,282 - ebanking -WARN - yes alret is there 
+2023-08-17 10:41:16,076 - ebanking -INFO - username provided
+2023-08-17 10:41:16,211 - ebanking -INFO - passwored provided
+2023-08-17 10:41:17,589 - ebanking -INFO - submit provided
+2023-08-17 10:41:20,619 - ebanking -INFO - exception handled 
+2023-08-17 10:41:26,609 - ebanking -INFO - valid credititals logged out to next futher data driven test 
+2023-08-17 10:41:27,090 - ebanking -INFO - username provided
+2023-08-17 10:41:27,254 - ebanking -INFO - passwored provided
+2023-08-17 10:41:27,704 - ebanking -INFO - submit provided
+2023-08-17 10:41:30,722 - ebanking -WARN - yes alret is there 
+2023-08-17 10:41:32,753 - ebanking -INFO - username provided
+2023-08-17 10:41:33,058 - ebanking -INFO - passwored provided
+2023-08-17 10:41:33,534 - ebanking -INFO - submit provided
+2023-08-17 10:41:36,551 - ebanking -WARN - yes alret is there 
+2023-08-17 10:41:38,673 - ebanking -INFO - username provided
+2023-08-17 10:41:38,795 - ebanking -INFO - passwored provided
+2023-08-17 10:41:40,275 - ebanking -INFO - submit provided
+2023-08-17 10:41:43,289 - ebanking -INFO - exception handled 
+2023-08-17 10:41:49,281 - ebanking -INFO - valid credititals logged out to next futher data driven test 
+2023-08-17 10:41:54,269 - ebanking -INFO - url launched
+2023-08-17 10:41:54,441 - ebanking -INFO - username  entered
+2023-08-17 10:41:54,705 - ebanking -INFO - password entered
+2023-08-17 10:43:42,136 - ebanking -INFO - username provided
+2023-08-17 10:43:42,276 - ebanking -INFO - passwored provided
+2023-08-17 10:43:42,741 - ebanking -INFO - submit provided
+2023-08-17 10:43:45,763 - ebanking -WARN - yes alret is there 
+2023-08-17 10:43:46,958 - ebanking -INFO - username provided
+2023-08-17 10:43:47,466 - ebanking -INFO - passwored provided
+2023-08-17 10:43:48,659 - ebanking -INFO - submit provided
+2023-08-17 10:43:51,686 - ebanking -INFO - exception handled 
+2023-08-17 10:43:57,710 - ebanking -INFO - valid credititals logged out to next futher data driven test 
+2023-08-17 10:43:57,879 - ebanking -INFO - username provided
+2023-08-17 10:43:58,593 - ebanking -INFO - passwored provided
+2023-08-17 10:43:59,060 - ebanking -INFO - submit provided
+2023-08-17 10:44:02,068 - ebanking -WARN - yes alret is there 
+2023-08-17 10:44:04,823 - ebanking -INFO - username provided
+2023-08-17 10:44:04,932 - ebanking -INFO - passwored provided
+2023-08-17 10:44:05,356 - ebanking -INFO - submit provided
+2023-08-17 10:44:08,369 - ebanking -WARN - yes alret is there 
+2023-08-17 10:44:11,099 - ebanking -INFO - username provided
+2023-08-17 10:44:11,213 - ebanking -INFO - passwored provided
+2023-08-17 10:44:12,280 - ebanking -INFO - submit provided
+2023-08-17 10:44:15,301 - ebanking -INFO - exception handled 
+2023-08-17 10:44:22,069 - ebanking -INFO - valid credititals logged out to next futher data driven test 
+2023-08-17 10:44:27,483 - ebanking -INFO - url launched
+2023-08-17 10:44:27,651 - ebanking -INFO - username  entered
+2023-08-17 10:44:27,793 - ebanking -INFO - password entered
+2023-08-17 10:44:29,072 - ebanking -INFO - title matched
+2023-08-17 10:45:02,696 - ebanking -INFO - url launched
+2023-08-17 10:45:02,956 - ebanking -INFO - username  entered
+2023-08-17 10:45:03,153 - ebanking -INFO - password entered
+2023-08-17 10:45:04,393 - ebanking -INFO - title matched
+2023-08-17 11:11:50,974 - ebanking -INFO - url launched
+2023-08-17 11:11:51,321 - ebanking -INFO - username  entered
+2023-08-17 11:11:51,413 - ebanking -INFO - password entered
+2023-08-17 11:11:52,676 - ebanking -INFO - title matched
+2023-08-17 11:59:16,514 - ebanking -INFO - url launched
+2023-08-17 11:59:16,700 - ebanking -INFO - username  entered
+2023-08-17 11:59:16,806 - ebanking -INFO - password entered
+2023-08-17 11:59:18,365 - ebanking -INFO - title matched
+2023-08-17 12:14:55,972 - ebanking -INFO - url launched
+2023-08-17 14:39:50,835 - ebanking -INFO - url launched
+2023-08-17 14:39:50,968 - ebanking -INFO - username  entered
+2023-08-17 14:39:51,033 - ebanking -INFO - password entered
+2023-08-17 14:39:52,382 - ebanking -INFO - title matched
+2023-08-17 14:43:22,620 - ebanking -INFO - url launched
+2023-08-17 14:43:22,742 - ebanking -INFO - username  entered
+2023-08-17 14:43:22,806 - ebanking -INFO - password entered
+2023-08-17 14:43:24,893 - ebanking -INFO - title matched
+2023-08-17 14:47:04,112 - ebanking -INFO - url launched
+2023-08-17 14:47:04,289 - ebanking -INFO - username  entered
+2023-08-17 14:47:04,364 - ebanking -INFO - password entered
+2023-08-17 14:47:05,491 - ebanking -INFO - title matched
+2023-08-17 14:47:09,771 - ebanking -INFO - username provided
+2023-08-17 14:47:09,864 - ebanking -INFO - passwored provided
+2023-08-17 14:47:10,255 - ebanking -INFO - submit provided
+2023-08-17 14:47:13,276 - ebanking -WARN - yes alret is there 
+2023-08-17 14:47:14,800 - ebanking -INFO - username provided
+2023-08-17 14:47:14,861 - ebanking -INFO - passwored provided
+2023-08-17 14:47:16,050 - ebanking -INFO - submit provided
+2023-08-17 14:47:19,070 - ebanking -INFO - exception handled 
+2023-08-17 14:47:24,911 - ebanking -INFO - valid credititals logged out to next futher data driven test 
+2023-08-17 14:47:24,975 - ebanking -INFO - username provided
+2023-08-17 14:47:25,245 - ebanking -INFO - passwored provided
+2023-08-17 14:47:26,141 - ebanking -INFO - submit provided
+2023-08-17 14:47:29,157 - ebanking -WARN - yes alret is there 
+2023-08-17 14:47:31,452 - ebanking -INFO - username provided
+2023-08-17 14:47:31,655 - ebanking -INFO - passwored provided
+2023-08-17 14:47:32,233 - ebanking -INFO - submit provided
+2023-08-17 14:47:35,247 - ebanking -WARN - yes alret is there 
+2023-08-17 14:47:36,735 - ebanking -INFO - username provided
+2023-08-17 14:47:37,013 - ebanking -INFO - passwored provided
+2023-08-17 14:47:37,814 - ebanking -INFO - submit provided
+2023-08-17 14:47:40,833 - ebanking -INFO - exception handled 
+2023-08-17 14:47:46,553 - ebanking -INFO - valid credititals logged out to next futher data driven test 
+2023-08-17 14:47:51,688 - ebanking -INFO - username entered
+2023-08-17 14:47:51,764 - ebanking -INFO - password entered
+2023-08-17 14:47:52,835 - ebanking -INFO -  entered submit
+2023-08-17 14:47:59,848 - ebanking -INFO -  dashborad entered
+2023-08-17 14:51:12,549 - ebanking -INFO - url launched
+2023-08-17 14:51:12,679 - ebanking -INFO - username  entered
+2023-08-17 14:51:12,743 - ebanking -INFO - password entered
+2023-08-17 14:51:13,894 - ebanking -INFO - title matched
+2023-08-17 14:51:19,951 - ebanking -INFO - username provided
+2023-08-17 14:51:20,015 - ebanking -INFO - passwored provided
+2023-08-17 14:51:20,431 - ebanking -INFO - submit provided
+2023-08-17 14:51:23,438 - ebanking -WARN - yes alret is there 
+2023-08-17 14:51:24,950 - ebanking -INFO - username provided
+2023-08-17 14:51:25,014 - ebanking -INFO - passwored provided
+2023-08-17 14:51:26,222 - ebanking -INFO - submit provided
+2023-08-17 14:51:29,242 - ebanking -INFO - exception handled 
+2023-08-17 14:51:34,892 - ebanking -INFO - valid credititals logged out to next futher data driven test 
+2023-08-17 14:51:34,955 - ebanking -INFO - username provided
+2023-08-17 14:51:35,131 - ebanking -INFO - passwored provided
+2023-08-17 14:51:35,520 - ebanking -INFO - submit provided
+2023-08-17 14:51:38,539 - ebanking -WARN - yes alret is there 
+2023-08-17 14:51:40,988 - ebanking -INFO - username provided
+2023-08-17 14:51:41,229 - ebanking -INFO - passwored provided
+2023-08-17 14:51:41,696 - ebanking -INFO - submit provided
+2023-08-17 14:51:44,713 - ebanking -WARN - yes alret is there 
+2023-08-17 14:51:46,199 - ebanking -INFO - username provided
+2023-08-17 14:51:46,418 - ebanking -INFO - passwored provided
+2023-08-17 14:51:47,213 - ebanking -INFO - submit provided
+2023-08-17 14:51:50,222 - ebanking -INFO - exception handled 
+2023-08-17 14:51:56,114 - ebanking -INFO - valid credititals logged out to next futher data driven test 
+2023-08-17 16:07:59,901 - ebanking -INFO - url launched
+2023-08-17 16:08:00,188 - ebanking -INFO - username  entered
+2023-08-17 16:08:00,402 - ebanking -INFO - password entered
+2023-08-17 16:08:03,761 - ebanking -INFO - title matched
+2023-08-17 16:08:12,913 - ebanking -INFO - username provided
+2023-08-17 16:08:13,052 - ebanking -INFO - passwored provided
+2023-08-17 16:08:13,542 - ebanking -INFO - submit provided
+2023-08-17 16:08:16,559 - ebanking -WARN - yes alret is there 
+2023-08-17 16:08:18,581 - ebanking -INFO - username provided
+2023-08-17 16:08:19,178 - ebanking -INFO - passwored provided
+2023-08-17 16:08:20,614 - ebanking -INFO - submit provided
+2023-08-17 16:08:23,627 - ebanking -INFO - exception handled 
+2023-08-17 16:08:30,145 - ebanking -INFO - valid credititals logged out to next futher data driven test 
+2023-08-17 16:08:30,503 - ebanking -INFO - username provided
+2023-08-17 16:08:30,631 - ebanking -INFO - passwored provided
+2023-08-17 16:08:32,733 - ebanking -INFO - submit provided
+2023-08-17 16:08:35,743 - ebanking -WARN - yes alret is there 
+2023-08-17 16:08:37,933 - ebanking -INFO - username provided
+2023-08-17 16:08:38,087 - ebanking -INFO - passwored provided
+2023-08-17 16:08:38,610 - ebanking -INFO - submit provided
+2023-08-17 16:08:41,622 - ebanking -WARN - yes alret is there 
+2023-08-17 16:08:43,485 - ebanking -INFO - username provided
+2023-08-17 16:08:43,603 - ebanking -INFO - passwored provided
+2023-08-17 16:08:44,847 - ebanking -INFO - submit provided
+2023-08-17 16:08:47,864 - ebanking -INFO - exception handled 
+2023-08-17 16:08:55,790 - ebanking -INFO - valid credititals logged out to next futher data driven test 
