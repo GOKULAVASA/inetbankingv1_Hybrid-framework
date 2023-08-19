@@ -6,6 +6,9 @@ package com.inetbankingV1.testCases;
 import java.io.IOException;
 
 import org.openqa.selenium.Alert;
+import org.openqa.selenium.By;
+import org.openqa.selenium.NoAlertPresentException;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -26,15 +29,22 @@ public class TC_Addcustomer_003 extends BaseClass {
 		lp.Clicksubmit();
 		logger.info(" entered submit");
 		Thread.sleep(3000);
-		
+	
 		AddCustomerPage addcust=new AddCustomerPage(driver);
-           Thread.sleep(4000);
-
+          
 		
 		logger.info(" dashborad entered");
 		
 		addcust.ClickNewCustomer();
-		//addcust.waitForAlert(driver);
+        logger.info("new customer clicked ");
+        Thread.sleep(5000);
+        driver.switchTo().frame("google_ads_iframe_/24132379/INTERSTITIAL_DemoGuru99_0");
+        driver.switchTo().frame("ad_iframe");
+                
+        driver.findElement(By.id("dismiss-button")).click();
+        driver.switchTo().defaultContent();
+        
+           logger.info("handled");
 		addcust.EnterCusName("gokul");
 		addcust.ClickGenderBtn();
 		addcust.dateOfBirth("10","4","1997");
@@ -49,7 +59,11 @@ public class TC_Addcustomer_003 extends BaseClass {
 		addcust.Enterpassword("abcdef@123");
 		addcust.clicksubmit();
 		logger.info("form  entered clicked submit");
-		
+	     if (isAlertPresent()==true) {
+	        	
+	        	logger.info("failed to create exception handled");
+	    		driver.switchTo().defaultContent();
+	        	}
 		Thread.sleep(3000);
 	boolean validation=	driver.getPageSource().contains("Customer Registered Successfully!!!");
 		if (validation==true){
@@ -62,4 +76,15 @@ public class TC_Addcustomer_003 extends BaseClass {
 		}
 	}
 
+	public boolean isAlertPresent() {
+		try {
+			driver.switchTo().alert().dismiss();
+			logger.warn("yes alret is there ");
+			return true;
+		}catch(NoAlertPresentException e)
+		{	logger.info("exception handled ");
+		return false;
+		}
+
+}
 }

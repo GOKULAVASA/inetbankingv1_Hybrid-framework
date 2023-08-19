@@ -51,11 +51,11 @@ public class BaseClass {
 		driver.get(baseURL);
 	}
 
-	@AfterClass
+	/**@AfterClass
 	public void teardown() {
 
 		driver.quit();	
-	}
+	}**/
 	
 	
 	

@@ -1,14 +1,12 @@
 package com.inetbankingV1.pageObjects;
 
-import org.openqa.selenium.Alert;
+import org.openqa.selenium.By;
+import org.openqa.selenium.NoAlertPresentException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.Wait;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 public  class AddCustomerPage {
 
@@ -19,9 +17,13 @@ public  class AddCustomerPage {
 		PageFactory.initElements(rdriver, this);
 	}
 
+	
 	@FindBy(how=How.XPATH,using="//a[contains(text(),'New Customer')]")
 	WebElement NewCustomer;
+    
+	
 
+	
 	@FindBy(how=How.NAME,using="name")
 	WebElement cusName;
 
@@ -66,15 +68,6 @@ public  class AddCustomerPage {
 		NewCustomer.click();
 	}
 	
-	
-	/**public   void waitForAlert(WebDriver driver) throws InterruptedException {
-		
-		
-		   // Now you can handle the alert as needed
-	   driver.switchTo().frame(1).close();
-	   
-	    ; 
-	}**/
 
 	public void EnterCusName(String cname) {
 		cusName.sendKeys(cname);
@@ -129,4 +122,8 @@ public  class AddCustomerPage {
 	{submit.click();
 	
 }
+	
+	
+	
+	
 }
