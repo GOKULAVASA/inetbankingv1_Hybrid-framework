@@ -1,0 +1,110 @@
+<table id="regmsg" name="regmsg" border="0" width="0%" align="center" class="layout">
+<tbody>
+<tr>
+<br>
+<td>
+<table id="customer" name="customer" border="1" align="center" cellspacing="0">
+<tbody>
+<tr>
+<td colspan="2">
+<p class="heading3" align="center">Customer Registered Successfully!!!</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<br>
+"Registered Customer details are as follows:"
+</td>
+</tr>
+<tr>
+
+<td colspan="2">…</td>
+<br>
+</tb>
+</tr>
+
+<tr>
+<td>Customer ID</td>
+<td>46615</td>
+</tr>
+
+
+<tr>
+<td>Customer Name</td>
+<td>gokul</td>
+</tr>
+
+
+<tr>
+<td>Gender</td>
+<td>male</td>
+</tr>
+
+<tr>
+<td>Birthdate</td>
+<td>1997-04-10</td>
+</tr>
+
+
+<tr>
+<td>Address</td>
+<td>no address</td>
+</tr>
+
+
+
+<tr>
+<td>City</td>
+<td>CHENNAI</td>
+</tr>
+
+
+<tr>
+<td>State</td>
+<td>TN</td>
+</tr>
+
+
+
+<tr>
+<td>Customer ID</td>
+<td>46615</td>
+</tr>
+
+
+
+<tr>
+<td>Pin</td>
+<td>600042</td>
+</tr>
+
+
+<tr>
+<td>Mobile No.</td>
+<td>999999999</td>
+</tr>
+
+
+<tr>
+<td>Email</td>
+<td>AUHjvLBHXG@gmail.com</td>
+</tr>
+
+
+<tr>
+<td colspan="2">
+<a href="Managerhomepage.php">Continue</a>
+
+</td>
+
+</tr>
+
+</tbody>
+</table>
+
+</td>
+
+</tr>
+
+</table>
+

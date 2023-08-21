@@ -1,0 +1,63 @@
+package com.inetbankingV1.testutilities;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+
+
+public class CustDATABASEUtiles {
+	public static Connection con;
+	 private static final String jdbcUrl = "jdbc:mysql://localhost:3306/your_database";
+	    private static final String username = "root";
+	    private static final String password = "root";
+	    private static final String dbName = "SucessfullCUSTDetails";
+	  
+	    
+	    public static Connection openConnection() throws SQLException {
+	        con = DriverManager.getConnection(jdbcUrl, username, password);
+	        
+	        return con;
+	    }
+	    public static void closeConnection(Connection connection) throws SQLException {
+	        if (connection != null) {
+	            connection.close();
+	        }
+	    }
+	 
+
+	public static void createTable() throws SQLException {
+	    try (Connection con = openConnection()) {
+	    	String CreateDataBase="CREATE DATABASE dbName ";
+			String usedb="Use dbName";
+	        String createTableQuery = "CREATE TABLE IF NOT EXISTS CUSTOMERDETAILS (REQURIEDDETAILS VARCHAR(10),CUSTDETAILS VARCHAR(15))";
+	        try (Statement statement = con.createStatement()) {
+	            statement.execute(createTableQuery);
+	        }
+	    } catch (SQLException e) {
+	        e.printStackTrace();
+	    }
+	}
+
+
+
+
+    public static  void insertCustomerDetails(String reqDetails, String custDetails) {
+        try (Connection connection = openConnection()) {
+            String insertQuery = "INSERT INTO CUSTOMERDETAILS (REQURIEDDETAILS, CUSTDETAILS) VALUES (?, ?)";
+            try (PreparedStatement preparedStatement = connection.prepareStatement(insertQuery)) {
+                preparedStatement.setString(1, reqDetails);
+                preparedStatement.setString(2, custDetails);
+                preparedStatement.executeUpdate();
+            }
+        }catch (SQLException e) {
+            e.printStackTrace();
+        }
+
+    }
+	 
+} 
+
+

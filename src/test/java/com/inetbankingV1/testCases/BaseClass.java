@@ -8,17 +8,11 @@ import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
-import org.openqa.selenium.Alert;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.ie.InternetExplorerDriver;
-import org.openqa.selenium.support.ui.ExpectedCondition;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
@@ -35,6 +29,8 @@ public class BaseClass {
 	public static WebDriver driver;
 	public static Logger logger;
 	public static WebDriverWait wait;
+	
+
 	@Parameters("browser")
 	@BeforeClass
 	public void setup(String br) {
@@ -51,15 +47,15 @@ public class BaseClass {
 		driver.get(baseURL);
 	}
 
-	/**@AfterClass
+	@AfterClass
 	public void teardown() {
 
 		driver.quit();	
-	}**/
-	
-	
-	
-	
+	}
+
+
+
+
 	public void captureScreenshot(WebDriver driver,String tname) throws IOException {
 		TakesScreenshot ts =(TakesScreenshot)driver;
 		File source =ts.getScreenshotAs(OutputType.FILE);
@@ -67,7 +63,7 @@ public class BaseClass {
 		FileUtils.copyFile(source, target);
 		System.out.println("screenshot taken");
 	}
-	
+
 	public String randomstring() {
 		String generatedmail =RandomStringUtils.randomAlphabetic(10);
 		return generatedmail;
@@ -75,13 +71,8 @@ public class BaseClass {
 	public static String randomNum() {
 		String generatedNum=RandomStringUtils.randomNumeric(4);
 		return generatedNum;
+	}
 }
 
 
-	
-	
-	
-	
 
-
-}

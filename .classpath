@@ -26,6 +26,7 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
 		<attributes>
+			<attribute name="module" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
@@ -118,5 +119,6 @@
 	<classpathentry kind="lib" path="C:/New folder/jar_files/jsr305-3.0.2.jar"/>
 	<classpathentry kind="lib" path="C:/New folder/jar_files/slf4j-api-1.7.36.jar"/>
 	<classpathentry kind="lib" path="C:/New folder/jar_files/testng-7.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/badas/Downloads/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
